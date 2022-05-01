@@ -26,14 +26,14 @@ html, body {
 
 .svg {
   position: fixed;
-  bottom: 11.5em;
-  left: 142em;
+  bottom: 8.5vw;
+  left: 93.5vw;
 }
 
 .svg2 {
   position: fixed;
-  bottom: 2em;
-  left: 142em;
+  bottom: 4vh;
+  left: 93.5vw;
 }
 
 .plus {
